@@ -62,7 +62,13 @@ body {
     margin-bottom: 75px;
     border-image: linear-gradient(#33A8DB, #1472B7);
     border-image-slice: 10;
-    padding: 16px 32px;
+    padding: 16px 16px;
+    transition: 0.5s;
+}
+
+.banner-content button:hover {
+    border-image: linear-gradient(#a0e2ff, #adddff);
+    border-image-slice: 10;
 }
 
 .banner-content a {
@@ -70,7 +76,14 @@ body {
     color: #31A8DD;
     font-weight: 600;
     letter-spacing: 4px;
+    padding: inherit;
+    transition: 0.5s;
 }
+
+.banner-content a:hover {
+    color: #adddff;
+}
+
 
 /* main */
 
