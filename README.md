@@ -1,22 +1,52 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Projeto Landing Page - Curso CSS Developer
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este repositório contém o projeto de uma landing page desenvolvido durante o curso **CSS Developer** da [Digital Innovation One (DIO)](https://www.dio.me/). O objetivo deste projeto é aplicar os conhecimentos adquiridos sobre CSS, criando uma página simples, mas eficaz para fixar o aprendizado.
 
+## Descrição do Projeto
+
+A landing page criada é uma página de apresentação do curso **CSS Developer**. Ela foi desenvolvida utilizando HTML e CSS, com foco em boas práticas de estilização, responsividade e organização de código.
+
+## Funcionalidades
+
+- Estruturação básica com HTML5
+- Estilização com CSS3
+- Layout responsivo
+- Uso de flexbox e grid layout
+- Animações e transições simples
+
+## Como foi desenvolver esta página
+
+Desenvolver esta landing page foi uma experiência enriquecedora. Através deste projeto, foi possível:
+
+- Consolidar os conceitos básicos e avançados de CSS.
+- Praticar a criação de layouts responsivos que se adaptam a diferentes tamanhos de tela.
+- Experimentar com animações e transições para tornar a página mais interativa.
+- Aprender a organizar o código CSS de maneira eficiente e escalável.
+
+## Acesse a Página
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 ![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## Como Executar o Projeto
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+Para visualizar a landing page localmente, siga os passos abaixo:
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd nome-do-repositorio
+   ```
+3. Abra o arquivo `index.html` no seu navegador preferido.
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
